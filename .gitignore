@@ -1,0 +1,63 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder metadata
+Icon?
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+pip-log.txt
+*.env
+.env
+*.venv
+.venv
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rproj
+*.Rout
+*.Rout.save
+
+# R Markdown
+*.utf8.md
+*.knit.md
+*.nb.html
+*.pdf
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Conda environments
+.env/
+.conda/
+*.conda
+
+# Output folders
+output/
+results/
+figures/
+plots/
